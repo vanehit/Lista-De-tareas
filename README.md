@@ -19,7 +19,7 @@ Axios 📡 (para consumir una API de tareas)
 
 1️⃣ Clona este repositorio:
     ```bash
-        git clone https://github.com/tu-usuario/todo-list-app.git
+        git clone https://github.com/vanehit/Lista-De-tareas.git
 
 2️⃣ Entra en la carpeta del proyecto:
     ```bash
@@ -32,6 +32,8 @@ Axios 📡 (para consumir una API de tareas)
 4️⃣ Inicia la aplicación:
      ```bash
         npm run dev
+
+
 
 
 
